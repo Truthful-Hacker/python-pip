@@ -9,10 +9,11 @@ STEPS for Installation:
 
 [3] apt install python3
 
-[4] git clone
+[4] git clone https://github.com/TruthFul-Hacker/python-pip
 
 [5] cd python-pip
 
 [6] python3 get-pip.py
 
-Now you have succesfully Install python-pip in your Kali Linux in Termux.
+
+Now you have succesfully Install python-pip in your Kali Linux in Termux. Simply Type pip --version.
